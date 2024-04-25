@@ -1,0 +1,12 @@
+
+Información de Licencia:
+------------------------
+Duolingo se distribuye bajo la licencia OMR Corporation, la cual permite la licencia, como uso, modificación y distribución.
+
+Para obtener una copia completa de la licencia, por favor visita [www.duolingo.com] o consulta el archivo `LICENSE.txt` incluido con la distribución del software.
+
+Soporte Técnico:
+----------------
+Si encuentras problemas durante la instalación o ejecución del programa, puedes contactar al soporte técnico a través de omr@gmail.com.
+
+¡Esperamos que disfrutes usando DuolingoJAVA!
